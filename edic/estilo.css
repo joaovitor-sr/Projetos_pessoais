@@ -73,5 +73,13 @@
   .bloco_icones button:hover svg{fill: #000;}
 
 
-  /*campo senha para colocar olho*/
+   .link{
+       float: right; width: 5%; height: 40px; margin: 5px; border: #555 10px;
+   }
+
+   .botao_inical{
+       background-color: teal;
+   }
+
+
 
