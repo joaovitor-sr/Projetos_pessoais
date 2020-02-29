@@ -11,8 +11,8 @@
    </style>
   </head>
   <body>
-    <form method="post">
-    <div class="botao_inical" id="botao_inicial">
+      <div class="botao_inicial" id="botao_inicial">Cabeçalho</div>
+    <form method="post" >
      <a href="form_cadastrar"><button id="link" class="link">Cadastrar</button></a>
      <a href="form-login"><button id="link" class="link">Logar</button></a>
     </form>
